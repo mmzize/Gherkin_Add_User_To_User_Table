@@ -1,0 +1,23 @@
+{
+    "Firstname": [
+        "Testing"
+    ],
+	"Lastname": [
+		"Test"
+	],
+	"Username": [
+	    "username"
+	],
+	"Password": [
+		"Password"
+	],
+	"Role": [
+		"Customer"
+	],
+	"Email": [
+		"test@test.com"
+	],
+	"Cellphone": [
+		"0761231231"
+	]
+}
